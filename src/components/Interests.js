@@ -1,6 +1,7 @@
 import React from "react";
 
 function Interests({ interests, theme }) {
+  console.log(interests)
   return (
     <div>
       <h4>Interests</h4>
